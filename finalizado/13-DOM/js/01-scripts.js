@@ -22,13 +22,13 @@ elemento = document.forms[0].action;
 elemento = document.links;
 elemento = document.links[4].id;
 elemento = document.links[4].className;
-elemento = document.forms[4].classList;
-elemento = document.forms[4].classList[0];
+// elemento = document.forms[4].classList;
+// elemento = document.forms[4].classList[0];
 
 elemento = document.images;
 
 elemento = document.scripts;
-elemento = document.scripts[2].getAttribute('src');
+// elemento = document.scripts[2].getAttribute('src');
 
 console.log(elemento);
 
