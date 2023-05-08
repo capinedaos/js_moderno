@@ -7,10 +7,10 @@ const heading = document.querySelector("h1");
 // y hay todo un objeto con propiedades CSS que puedes utilizar, si quieres conocerlas todas coloca...
 console.log(heading.style);
 
-// heading.style.backgroundColor = 'red'; //  Nota como las propiedades que le puedes pasar, son similares a las de CSS, con la diferencia de que el guion se elimina y la segunda palabra su primer letra es mayuscula.
+ //heading.style.backgroundColor = 'red'; //  Nota como las propiedades que le puedes pasar, son similares a las de CSS, con la diferencia de que el guion se elimina y la segunda palabra su primer letra es mayuscula.
 
-// heading.style.textTransform = 'uppercase';
-// heading.style.fontFamily = 'Arial';
+ //heading.style.textTransform = 'uppercase';
+ //heading.style.fontFamily = 'Arial';
 
 // Ahora yo no recomiendo que pongas style, ya que tu archivo JS será muy grande, otra desventaja es que la apariencia debe ser algo que sea responsabilidad del CSS, pero lo que si puedes hacer es agregar o quitar classes..
 
