@@ -1,4 +1,7 @@
-# js_moderno
+# JavaScript Moderno Guía Definitiva Construye +20 Proyectos
+
+
+# Aqui te dejo la informacion del curso y el enlace por si te animas a realizarlo !!!
 
 https://www.udemy.com/share/1020Na3@sJ0WLCeezmAfGU3c24OJxgXlF-Tz9GBLNQ-nRgCbanGZHXUyIk-iCbO1Sc7saXkuuw==/
 
